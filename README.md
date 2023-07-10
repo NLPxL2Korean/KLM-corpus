@@ -19,7 +19,7 @@ The data is organized in the universally accepted [CoNLL-U](https://universaldep
 2. FORM: *Eojeol* (sequences of Korean characters separated by white-spaces) form or punctuation symbol 
 3. LEMMA: Morphemes connected by '+' within an eojeol-unit (**manually annotated**)
 4. UPOS: [Universal part-of-speech-tag](https://universaldependencies.org/u/pos/index.html) (automatically annotated by Stanza)
-5. XPOS: [Sejong tag set]() (language-specific part-of-speech tag) (**manually annotated**)
+5. XPOS: [Sejong tag set](https://nlpxl2korean.github.io/Korean-L2-Learner-Morpheme-corpus/sejong) (language-specific part-of-speech tag) (**manually annotated**)
 6. FEATS: List of morphological features from the universal feature inventory or from a defined language-specific extension; underscore if not available (currently empty)
 7. HEAD: Head of the current word, which is either a value of ID or zero (0) (currently empty)
 8. DEPREL: Universal dependency relation to the HEAD (root iff HEAD = 0) or a defined language-specific subtype of one (currently empty)
