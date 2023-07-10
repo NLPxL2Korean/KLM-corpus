@@ -34,9 +34,9 @@ Detailed morpheme annotation guidelines for building the KLM corpus are availabl
 
 ## Citation
 
-If you use the KLM corpus in your research, please cite the following:
+If you use the KLM corpus in your research, please cite the following [paper](https://aclanthology.org/2023.bea-1.6.pdf):
 
-Sung, H., & Shin, G-H. (2023). Towards L2-friendly pipelines for learner corpora: A case of written production by L2-Korean learners, In *Proceedings the 18th Workshop on Innovative Use of NLP for Building Educational Applications*, Association for Computational Linguistics.
+Sung, H., & Shin, G-H. (2023). Towards L2-friendly pipelines for learner corpora: A case of written production by L2-Korean learners, In *Proceedings the 18th Workshop on Innovative Use of NLP for Building Educational Applications*, 72-82, Association for Computational Linguistics.
 
 ## To do 
 
