@@ -29,7 +29,7 @@ The data is organized in the universally accepted [CoNLL-U](https://universaldep
 
 ## Annotation guidelines
 
-Detailed morpheme annotation guidelines for building the KLM corpus are available [here]().
+Detailed morpheme annotation guidelines for building the KLM corpus are available [here](https://nlpxl2korean.github.io/KLM-corpus/annotations).
 
 
 ## Citation
