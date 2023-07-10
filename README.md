@@ -1,4 +1,4 @@
-# Korean (L2) Learner Morpheme (KLM) corpus 
+# Korean L2 Learner Morpheme (KLM) corpus 
 
 
 ## Basic information
@@ -38,11 +38,10 @@ If you use the KLM corpus in your research, please cite the following:
 
 Sung, H., & Shin, G-H. (2023). Towards L2-friendly pipelines for learner corpora: A case of written production by L2-Korean learners, In *Proceedings the 18th Workshop on Innovative Use of NLP for Building Educational Applications*, Association for Computational Linguistics.
 
-## On-going/Future works
+## To do 
 
-- We are currently re-evaluating the Korean language proficiency of individual learners through a holistic evaluation of their essays by trained human raters.
-
-- Our aim is to extend the scope of our research to include dependency parsing.
+- [x] We are re-evaluating the Korean language proficiency of individual learners through a holistic evaluation of their essays by trained human raters.
+- [ ] We are going to extend the scope of our research to include dependency annotations.
 
 
 ## License
