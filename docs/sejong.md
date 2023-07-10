@@ -1,4 +1,6 @@
-The following table provides a Sejong Tag set. The English description was sourced from [Jeong (2018)](http://dx.doi.org/10.3938/NPSM.68.636). See also [Kim et al. (2007)](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE01065207) for the detailed descriptions of the tag set.
+The following table provides a Sejong Tag set. 
+- The English description was sourced from [Jeong (2018)](http://dx.doi.org/10.3938/NPSM.68.636). 
+- See also [Kim et al. (2007)](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE01065207) for the detailed descriptions of the tag set.
 
 | Tag | Description |
 |---|---|
