@@ -1,11 +1,14 @@
+## Annotation guidelines
+This page includes the major cases that annotators discussed while building the KLM corpus, with the purpose of consistent annotations and better evaluation of morpheme tokenizers/taggers of interest.
 
-### Causative and Passive Markers
+
+### Causative and passive markers
 
 Voice markers such as -i/hi/li/ki/wu/kwu/chwu- (morphological causative) and -i/hi/li/ki- (suffixal passive) indicate causative and passive voices. They attach to a root to form causative or passive verbs, altering the number of arguments a predicate controls in a clausal construction. We parsed these morphemes and assigned XSV (Suffix, verb derivative) POS tags.
 
 - Example: `mek+ta "to eat" (VV+ EF); mek+hi+ta "to be eaten" (VV+XSV+EF)`
 
-### Auxiliary Verbs
+### Auxiliary verbs
 
 Verbs like iss- "to be/exist/have", ha- "to do", and toy- "to become" can act as both main and auxiliary verbs. As main verbs, they represent concepts of existence, activity, or possession. In these cases, we assigned a VV (Verb, main) tag.
 
@@ -21,8 +24,8 @@ The copula (-i) links the subject of a sentence with a predicate, often conveyin
 
 - Example: `swukcey-lanun "(the thing) called homework" → swukcey+i+lanun (NNG+VCP+ETM).`
 
-### Spelling Errors
+### Spelling errors
 
 Instead of subjectively interpreting misspelled words, we assigned three tags from the Sejong tag set: NA (Undefined), NF (Undefined, but considered a noun), and NV (Undefined, but considered a verb).
 
-### Will be updated
+##### * We will update more detailed guidelines/examples for other morpheme categories shortly!
