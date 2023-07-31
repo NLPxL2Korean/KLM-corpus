@@ -11,7 +11,7 @@ This repository is for the KLM corpus, a manually annotated dataset consisting o
 
 - The corpus was manually annotated by three native Korean speakers, providing detailed descriptions during the annotation process and their subsequent evaluations.
 
-## CoNNL-U Format
+## CoNLL-U Format
 
 The data is organized in the universally accepted [CoNLL-U](https://universaldependencies.org/format.html) format, following the Universal Dependencies (UD) formalism (Nivre et al., 2020). Sentences consist of one or more word lines, and each word line contains the following fields:
 
