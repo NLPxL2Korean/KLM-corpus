@@ -41,7 +41,7 @@ Sung, H., & Shin, G-H. (2023). Towards L2-friendly pipelines for learner corpora
 ## To do 
 
 - [x] We are re-evaluating the Korean language proficiency of individual learners through a holistic evaluation of their essays by trained human raters.
-- [ ] We are going to extend the scope of our research to include dependency annotations.
+- [x] We are going to extend the scope of our research to include dependency annotations: see [L2KW corpus](https://github.com/NLPxL2Korean/L2KW-corpus).
 
 
 ## License
