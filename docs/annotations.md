@@ -24,6 +24,11 @@ The copula (*-i*) links the subject of a sentence with a predicate, often convey
 
 - Example: `swukcey+lanun "(the thing) called homework" → swukcey+i+lanun (NNG+VCP+ETM).`
 
+### `advmod` vs. `obl`
+
+- noun+보조사(`advmod`): -까지, -뿐만, -도, -만
+- noun+격조사(`obl`): -에, -에게, -보다, -한테, -처럼, -(으)로, -와/과, -에서, -보고
+
 ### Spelling errors
 
 Instead of subjectively interpreting misspelled words, we assigned three tags from the Sejong tag set: NA (Undefined), NF (Undefined, but considered a noun), and NV (Undefined, but considered a verb).
