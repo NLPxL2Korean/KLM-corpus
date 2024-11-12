@@ -1,8 +1,8 @@
 # L2 Korean Learner Morpheme (KLM) corpus 
-- Please see the most updated version of the corpus [here](https://github.com/UniversalDependencies/UD_Korean-KSL/tree/dev)!
+- You can find the latest version of the corpus [here](https://github.com/UniversalDependencies/UD_Korean-KSL/tree/dev).
   
-## CoNLL-U Format
-The data is organized in the universally accepted [CoNLL-U](https://universaldependencies.org/format.html) format, following the Universal Dependencies (UD) formalism (Nivre et al., 2020). Sentences consist of one or more word lines, and each word line contains the following fields:
+## Data format
+The data is organized in the universally accepted [CoNLL-U](https://universaldependencies.org/format.html) format. Sentences consist of one or more word lines, and each word line contains the following columns:
 1. ID: Word index
 2. FORM: *Eojeol* (sequences of Korean characters separated by white-spaces) form or punctuation symbol 
 3. LEMMA: Morphemes connected by '+' within an eojeol-unit (**manually annotated**)
@@ -15,7 +15,7 @@ The data is organized in the universally accepted [CoNLL-U](https://universaldep
 10. MISC: Any other annotation
 
 ## Annotation guidelines
-Detailed morpheme annotation guidelines for building the KLM corpus are available [here](https://nlpxl2korean.github.io/KLM-corpus/annotations).
+A snippet of morpheme annotation guidelines for building the KLM corpus are available [here](https://nlpxl2korean.github.io/KLM-corpus/annotations).
 
 ## Citation
 This corpus was built from the following project: 
