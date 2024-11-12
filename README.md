@@ -1,20 +1,8 @@
 # L2 Korean Learner Morpheme (KLM) corpus 
-
-
-## Basic information
-
-This repository is for the KLM corpus, a manually annotated dataset consisting of 129,784 morphemes from second language (L2) learners of Korean. This dataset features morpheme tokenization and part-of-speech (POS) tagging, with morpheme tags are based on the Sejong tag set.
-
-- The data includes information on classroom proficiency levels (ranging from 1 to 6 as a proxy for learner proficiency), nationality, gender, and writing topics.
-
-- The dataset was constructed by randomly extracting 600 texts from the original corpus (Park & Lee, 2016). Each proficiency level is represented by 100 texts.
-
-- The corpus was manually annotated by three native Korean speakers, providing detailed descriptions during the annotation process and their subsequent evaluations.
-
+- Please see the most updated version of the corpus [here](https://github.com/UniversalDependencies/UD_Korean-KSL/tree/dev)!
+  
 ## CoNLL-U Format
-
 The data is organized in the universally accepted [CoNLL-U](https://universaldependencies.org/format.html) format, following the Universal Dependencies (UD) formalism (Nivre et al., 2020). Sentences consist of one or more word lines, and each word line contains the following fields:
-
 1. ID: Word index
 2. FORM: *Eojeol* (sequences of Korean characters separated by white-spaces) form or punctuation symbol 
 3. LEMMA: Morphemes connected by '+' within an eojeol-unit (**manually annotated**)
@@ -26,23 +14,12 @@ The data is organized in the universally accepted [CoNLL-U](https://universaldep
 9. DEPS: Enhanced dependency graph in the form of a list of head-deprel pairs (currently empty)
 10. MISC: Any other annotation
 
-
 ## Annotation guidelines
-
 Detailed morpheme annotation guidelines for building the KLM corpus are available [here](https://nlpxl2korean.github.io/KLM-corpus/annotations).
 
-
 ## Citation
-
-If you use the KLM corpus in your research, please cite the following [paper](https://aclanthology.org/2023.bea-1.6.pdf):
-
-Sung, H., & Shin, G-H. (2023). Towards L2-friendly pipelines for learner corpora: A case of written production by L2-Korean learners, In *Proceedings the 18th Workshop on Innovative Use of NLP for Building Educational Applications*, 72-82, Association for Computational Linguistics.
-
-## To do 
-
-- [x] We are re-evaluating the Korean language proficiency of individual learners through a holistic evaluation of their essays by trained human raters.
-- [x] We are going to extend the scope of our research to include dependency annotations: see [L2KW corpus](https://github.com/NLPxL2Korean/L2KW-corpus).
-
+This corpus was built from the following project: 
+- Sung, H., & Shin, G-H. (2023). Towards L2-friendly pipelines for learner corpora: A case of written production by L2-Korean learners, In *Proceedings the 18th Workshop on Innovative Use of NLP for Building Educational Applications*, 72-82, Association for Computational Linguistics.
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
